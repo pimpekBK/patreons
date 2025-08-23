@@ -1,8 +1,8 @@
-<color=#d65c5e>GOAT Supporter
+<color=#d65c5e>GOAT Supporter</color>
 Happy bot
-</color><color=#a95cd6>Big Supporter
+<color=#a95cd6>Big Supporter</color>
 pimpekBK
-</color><color=#5cd6d6>Supporter +
+<color=#5cd6d6>Supporter +</color>
 
-</color><color=#5cd69d>Supporter</color> 
+<color=#5cd69d>Supporter</color> 
 
