@@ -1,6 +1,2 @@
 <color=#d65c5e>GOAT Supporter</color><size=32>
 Happy bot ChannelBot Mimu
-</size><color=#a95cd6>Big Supporter</color><size=32>
-pimpekBK
-</size><color=#5cd69d>Supporter</color><size=32>
-pimpekBK
