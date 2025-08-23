@@ -1,8 +1,8 @@
-4GOAT Supporter3
+<color=#d65c5e>GOAT Supporter3
 Happy bot
-9Big SupporterT
+</color><color=#a95cd6>Big Supporter
 pimpekBK
-Supporter +V
+</color><color=#5cd6d6>Supporter +
 
-0Supporter 0
+</color><color=#5cd69d>Supporter</color> 
 
