@@ -1,2 +1,2 @@
 <color=#d65c5e>GOAT Supporter</color><size=32>
-Happy bot ChannelBot Mimu
+ChannelBot Mimu
