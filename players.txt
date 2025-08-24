@@ -2,3 +2,7 @@
 pimpekBK
 </size><color=#a95cd6>Big Supporters</color><size=32>
 pimpekBK
+</size><color=#5cd6d6>Supporters +</color><size=32>
+pimpekBK
+</size><color=#5cd69d>Supporters</color><size=32>
+pimpekBK
