@@ -1,1 +1,2 @@
-Space for Supporters
+</size><color=#5cd69d>Supporters</color><size=32>
+Kuro
